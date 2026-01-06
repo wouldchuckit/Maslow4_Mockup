@@ -56,14 +56,24 @@
     },
     {
       "atomType": "Import",
-      "x": 0.2637540453074434,
-      "y": 0.5404157043879907,
+      "x": 0.16289104638619203,
+      "y": 0.6859122401847575,
       "uniqueID": "id-256552",
       "fileName": "PCB Cover.step",
       "name": "Import",
       "type": "STEP",
       "repoOwner": "wouldchuckit",
       "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.3408845738942826,
+      "y": 0.47344110854503463,
+      "uniqueID": "id-256554",
+      "fileName": null,
+      "name": "Import",
+      "type": null,
       "SVGwidth": 10
     }
   ],
