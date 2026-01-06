@@ -17,6 +17,30 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ]
+    },
+    {
+      "atomType": "Import",
+      "x": 0.1483279395900755,
+      "y": 0.20092378752886836,
+      "uniqueID": "id-256540",
+      "fileName": "Sled.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.1634304207119741,
+      "y": 0.44110854503464203,
+      "uniqueID": "id-256542",
+      "fileName": "Post Top.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
     }
   ],
   "allConnectors": [],
