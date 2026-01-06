@@ -125,6 +125,30 @@
       "repoOwner": "wouldchuckit",
       "repoName": "Maslow4_Mockup",
       "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.4034519956850054,
+      "y": 0.7644341801385681,
+      "uniqueID": "id-256564",
+      "fileName": "Belt Roller.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.4444444444444444,
+      "y": 0.6789838337182448,
+      "uniqueID": "id-256566",
+      "fileName": "Dust Cover.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
     }
   ],
   "allConnectors": [],
