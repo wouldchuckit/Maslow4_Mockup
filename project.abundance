@@ -71,9 +71,11 @@
       "x": 0.3408845738942826,
       "y": 0.47344110854503463,
       "uniqueID": "id-256554",
-      "fileName": null,
+      "fileName": "PCB Holder.step",
       "name": "Import",
-      "type": null,
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
       "SVGwidth": 10
     }
   ],
