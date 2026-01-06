@@ -113,6 +113,18 @@
       "repoOwner": "wouldchuckit",
       "repoName": "Maslow4_Mockup",
       "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.3656957928802589,
+      "y": 0.8521939953810623,
+      "uniqueID": "id-256562",
+      "fileName": "Clamp Wedge.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
     }
   ],
   "allConnectors": [],
