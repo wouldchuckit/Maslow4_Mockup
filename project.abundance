@@ -197,6 +197,18 @@
       "repoOwner": "wouldchuckit",
       "repoName": "Maslow4_Mockup",
       "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.6488673139158576,
+      "y": 0.35334872979214776,
+      "uniqueID": "id-256576",
+      "fileName": "Clamp(1).step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
     }
   ],
   "allConnectors": [],
