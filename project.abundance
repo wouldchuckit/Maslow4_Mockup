@@ -167,9 +167,23 @@
       "x": 0.5248112189859763,
       "y": 0.4549653579676674,
       "uniqueID": "id-256570",
-      "fileName": null,
+      "fileName": "Belt Guard.step",
       "name": "Import",
-      "type": null,
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
+      "SVGwidth": 10
+    },
+    {
+      "atomType": "Import",
+      "x": 0.5690399137001079,
+      "y": 0.371824480369515,
+      "uniqueID": "id-256572",
+      "fileName": "Arm.step",
+      "name": "Import",
+      "type": "STEP",
+      "repoOwner": "wouldchuckit",
+      "repoName": "Maslow4_Mockup",
       "SVGwidth": 10
     }
   ],
